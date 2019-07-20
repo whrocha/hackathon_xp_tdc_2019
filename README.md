@@ -20,3 +20,6 @@ importantes para posteriores acoes de markenting.)
 
 Tambem pode ser consultada [aqui](https://cloudcraft.co/view/10e7d7cd-09e5-40cf-979c-19c5da57bb54?key=tPPFZuo-ScvPy7gsUZNXDw)
 
+# Apresentacao
+A apresentacao do [Pitch](https://github.com/whrocha/hackathon_xp_tdc_2019/blob/master/ppt-maxbot.zip)
+
